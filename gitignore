@@ -1,0 +1,39 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Cache
+.cache/
+__pycache__/
+*.pyc
+
+# Temporary
+*.tmp
+*.temp
+*.bak
+
+# Old versions
+trainiq-v*.html
+trainiq-final*.html
+trainiq-FINAL-SUBMISSION.html
